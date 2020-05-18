@@ -1322,7 +1322,7 @@ function (_super) {
       style: {
         width: width,
         height: height,
-        padding: 5
+        paddingBottom: 5
       }
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_circular_progressbar__WEBPACK_IMPORTED_MODULE_4__["CircularProgressbarWithChildren"], {
       value: num == 0 ? 0 : num == 1 ? 33 : num == 2 ? 66 : 100
