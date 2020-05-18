@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Custom Gauge",
+  "id": "id-custom-gauge",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "Custom Gauge",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": ["gauge"],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2020-05-18"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
