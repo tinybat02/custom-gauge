@@ -38,7 +38,7 @@ export class MainPanel extends PureComponent<Props, State> {
         style={{
           width,
           height,
-          paddingBottom: 5,
+          padding: 10,
         }}
       >
         <CircularProgressbarWithChildren value={num == 0 ? 0 : num == 1 ? 33 : num == 2 ? 66 : 100}>
